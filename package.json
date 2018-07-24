@@ -1,0 +1,19 @@
+{
+  "name": "javascript-ninja",
+  "version": "1.0.0",
+  "description": "Secrets of the Javascript ninja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Godsenal/javascript-ninja.git"
+  },
+  "author": "LTH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Godsenal/javascript-ninja/issues"
+  },
+  "homepage": "https://github.com/Godsenal/javascript-ninja#readme"
+}
